@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": "Elise Hoovler",
   "dependencies": {
-    "gatsby": "^2.2.9",
+    "gatsby": "^2.32.13",
     "gatsby-background-image": "^0.6.2",
     "gatsby-plugin-manifest": "^2.0.24",
     "gatsby-plugin-offline": "^2.0.25",
